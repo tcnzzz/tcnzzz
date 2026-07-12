@@ -53,13 +53,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyentuongbachhy&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyentuongbachhy&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tcnzzz&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tcnzzz&theme=tokyonight" width="48%" />
   
   <br/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyentuongbachhy&theme=tokyonight&utcOffset=7" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyentuongbachhy&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tcnzzz&theme=tokyonight&utcOffset=7" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tcnzzz&theme=tokyonight" width="48%" />
 
 </div>
 
