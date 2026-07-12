@@ -1,6 +1,8 @@
 <div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tran+Chi+Nhan;A+Passionate+AI+Student;Computer+Science;Generative+AI+Enthusiast" alt="Typing SVG" />
   
-  # Computer Science
+  <br/>
   
   <a href="https://www.linkedin.com/in/trần-chí-nhân-907ba7409/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
