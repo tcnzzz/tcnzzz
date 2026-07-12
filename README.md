@@ -1,14 +1,14 @@
 <div align="center">
   
-  # Fullstack Developer
+  # Computer Science
   
-  <a href="LINK_LINKEDIN_CUA_BAN" target="_blank">
+  <a href="[LINK_LINKEDIN_CUA_BAN](https://www.linkedin.com/in/tr%E1%BA%A7n-ch%C3%AD-nh%C3%A2n-907ba7409/?isSelfProfile=true)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="LINK_KAGGLE_CUA_BAN" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="mailto:EMAIL_CUA_BAN@gmail.com">
+  <a href="mailto:chinhan140307@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
