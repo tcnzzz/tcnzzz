@@ -15,7 +15,7 @@
   <br />
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_CUA_BAN&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_CUA_BAN&color=blue&style=flat-square&label=Profile+views" alt="tcnzzz" />
 
 </div>
 
@@ -23,10 +23,10 @@
 
 ### 🙋‍♂️ About Me
 
-# * 🔭 I'm currently working on **[Điền công việc hiện tại]**
-* 🌱 I'm studying **[Điền ngành học/trường]**
-* 💡 I am passionate about **[Điền đam mê của bạn]**
-* 📫 How to reach me: **[Email của bạn]**
+<!-- * 🔭 I'm currently working on **[Điền công việc hiện tại]** -->
+* 🌱 I'm studying **Computer Science at HCMUT**
+* 💡 I am passionate about mathematical modeling, exploring new technologies, and continuous learning.
+* 📫 How to reach me: **chinhan140307@gmail.com**
 
 ---
 
